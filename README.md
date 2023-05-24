@@ -55,11 +55,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- [Go programming language](https://golang.org/)
-- [OpenAI GPT-3](https://openai.com/)
-
 ## Contact
 
 For any inquiries or questions, please contact ivorfn@gmail.com.
