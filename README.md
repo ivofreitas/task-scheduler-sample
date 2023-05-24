@@ -63,5 +63,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or questions, please contact ivorfn@gmail.com.
-
-Feel free to modify the sections and content according to your project's specific details and requirements. The README file serves as a central place for users and contributors to understand how to use and contribute to your project, so make sure to provide clear instructions and relevant information.
